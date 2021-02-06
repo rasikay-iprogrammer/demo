@@ -1,5 +1,5 @@
 {
-  "movieInfo": {
+  "movieInfo": [{
     "movieName": "Kill Bill",
     "grade": "A",
     "language": "English",
@@ -9,5 +9,5 @@
     "total": 1652,
     "gstAmount": 0,
     "finalTotal": 0
-  }
+  }]
 }
