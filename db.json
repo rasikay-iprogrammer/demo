@@ -1,1 +1,35 @@
 
+{
+  "transactions": [
+    {
+      "customer_name": "Ketan",
+      "transfer_amount": "5000",
+      "transfer_currency": "INR",
+      "reference": "CUS201904059"
+    },
+    {
+      "customer_name": "Rahul",
+      "transfer_amount": "9000",
+      "transfer_currency": "INR",
+      "reference": "CUS201904057"
+    },
+    {
+      "customer_name": "Rajesh",
+      "transfer_amount": "6000",
+      "transfer_currency": "INR",
+      "reference": "CUS201904054"
+    },
+    {
+      "customer_name": "Neha",
+      "transfer_amount": "7000",
+      "transfer_currency": "MUR",
+      "reference": "CUS201904050"
+    },
+    {
+      "customer_name": "Amol",
+      "transfer_amount": "60$",
+      "transfer_currency": "USD",
+      "reference": "CUS201904053"
+    }
+  ]
+}
